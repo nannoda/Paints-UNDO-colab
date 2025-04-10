@@ -322,5 +322,5 @@ with block:
     )
 
 # block.queue().launch(server_name='0.0.0.0')
-block.queue().launch(share=True)
+block.queue().launch(share=True, debug=True)
 
