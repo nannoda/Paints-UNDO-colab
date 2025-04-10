@@ -19,7 +19,7 @@ dependencies = [
     "tensorboardx>=2.6.2.2",
     "torch>=2.6.0",
     "torchvision>=0.21.0",
-    "huggingface-hub==0.25.0",
+    "huggingface-hub==0.30.2",
     # "transformers==4.41.1",
     "xformers>=0.0.29.post3",
     # "gradio==4.43.0",
