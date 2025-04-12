@@ -1,4 +1,6 @@
-# Paints-Undo
+# Paints-Undo (Google Colab)
+
+Tested on Google Colab T4 (High RAM)
 
 PaintsUndo: A Base Model of Drawing Behaviors in Digital Paintings
 
